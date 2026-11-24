@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780741443618",
+    "project_id": "user-mgnt-udemy",
+    "storage_bucket": "user-mgnt-udemy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780741443618:android:f158ad5bfb8e20aa7c8a7b",
+        "android_client_info": {
+          "package_name": "com.example.user_mgnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQMCSsijIUzWyYjKdCNAiKP-iqV66m6vs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
